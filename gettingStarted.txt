@@ -1,0 +1,4 @@
+Ok so unfortunately this website isn't exactly functional and I can't really help you with making a website. I CAN teach you how to steal CSS and throw in some useful functions here and there but I'll be honest W3schools.com or a professional are much better for you than me. The navigation links at the top work, though! Also any link that isn't a button will do what it's supposed to, give them all a try!
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+I'll remove the buttons from future pages so you don't waste your time. Thanks for exploring the site though!
