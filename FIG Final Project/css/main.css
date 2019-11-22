@@ -1,0 +1,22 @@
+#authorName{
+    font-weight: 800;
+    margin-bottom: -5px;
+}
+
+#background{
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+#backgroundBody{
+    margin-top: -30px;
+}
+
+#observations{
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+#observationsBody{
+    margin-top: -30px;
+}
